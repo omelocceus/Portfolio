@@ -21,5 +21,6 @@ Simple portfolio layout
 Easy-use buttons
 
 
-link: [
-](https://github.com/omelocceus/Portfolio.git)
+link:
+ https://github.com/omelocceus/Portfolio.git
+ 

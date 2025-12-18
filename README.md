@@ -11,14 +11,15 @@ JavaScript – for game logic and user interaction
 
 Features Implemented: 
 
-Required Features
+  Required Features:
 Rock, Paper, and Scissors buttons
 Random computer choice
 Win, lose, or draw result
 Display of user and computer choices
 Additional Features
 Simple portfolio layout
-Easy-to-use buttons
-Clean and readable code
+Easy-use buttons
 
-link: 
+
+link: [
+](https://github.com/omelocceus/Portfolio.git)

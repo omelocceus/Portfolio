@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: red
+    text-align: center;
+    margin: ;
+}
+
+header {
+    background-color: plum;
+    color: white;
+    padding: 50px;
+    border-radius: 40px;
+}
+
+.about, .game {
+    margin: 20px;
+    padding: 20px;
+    background-color: palegoldenrod;
+    border-radius: 50px;
+}
+
+.buttons button {
+    padding: 10px 40px;
+    margin: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.result {
+    margin-top: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    border-radius: 10px;
+}

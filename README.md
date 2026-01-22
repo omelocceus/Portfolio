@@ -20,6 +20,7 @@ Additional Features
 Simple portfolio layout
 Easy-use buttons
 
+This Portfolio also includes other proejects I have worked on as well like a expense tracker please take a look!
 
 link:
  https://github.com/omelocceus/Portfolio.git
